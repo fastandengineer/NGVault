@@ -26,19 +26,33 @@ INotifyPropertyChanged kullanılarak dosya durumu ve sonuçlar anlık olarak ara
 🎨 Görselsiz, Tamamen Native UI
 Drag-drop alanı ve açıklamalar tamamen WinForms kontrolleriyle oluşturulmuştur (harici görsel yoktur).
 
+
+
 *Kullanılan Teknolojiler
+
 .NET Framework (WinForms)
+
 C#
+
 INotifyPropertyChanged
+
 Custom Exception Handling
+
 Drag & Drop API
+
 BindingList / Data Binding
 
+
 *Temel Bileşenler
+
 FileItem
+
 Dosya bilgisi, boyut, durum ve sonuç verilerini temsil eder.
+
 NGVault*Exception
+
 NGVault’a özel hata senaryoları.
+
 
 *Kullanım
 Dosyaları uygulamaya sürükleyin veya “Dosya Seç” / “Klasör Seç” seçeneklerini kullanın.
