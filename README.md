@@ -3,6 +3,7 @@
 NGVault, NGVault formatında şifrelenmiş dosyaları analiz etmek, doğrulamak ve işlemek için geliştirilmiş bir Windows (WinForms) masaüstü uygulamasıdır. Uygulama; sürükle-bırak desteği ve toplu dosya işlemleri gibi modern kullanım özellikleri sunar.
 
 *Özellikler
+
 🗂️ Sürükle & Bırak Dosya Desteği
 Dosyaları veya klasörleri doğrudan uygulamaya sürükleyerek ekleyebilirsiniz.
 
